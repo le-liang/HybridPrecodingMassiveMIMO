@@ -1,7 +1,4 @@
 # HybridPrecodingMassiveMIMO
----
-Notes: I'm now a Professor in Southeast University 东南大学, Nanjing, China. Please check out our new GitHub page for more updates: https://github.com/lianggroup
----
 
 This project contains MATLAB codes for the following paper. Please consider citing the paper if you find it of any help.   
 
