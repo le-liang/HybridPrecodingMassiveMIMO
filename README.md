@@ -1,4 +1,8 @@
 # HybridPrecodingMassiveMIMO
+---
+Notes: I'm now a Professor in Southeast University 东南大学, Nanjing, China. Please check out our new GitHub page for more updates: https://github.com/lianggroup
+---
+
 This project contains MATLAB codes for the following paper. Please consider citing the paper if you find it of any help.   
 
 L. Liang, W. Xu, and X. Dong, "Low-complexity hybrid precoding in massive mulituser MIMO systems," IEEE Wireless Communications Letters, vol. 3, no. 6, pp. 653-656, Dec. 2014. 
@@ -6,4 +10,4 @@ L. Liang, W. Xu, and X. Dong, "Low-complexity hybrid precoding in massive mulitu
 - Please start with the two "main" files: mainCompareScheme_Rayleigh.m and mainCompareScheme_mmWave.m.
 - Other files contain functions called in the two "main" files. 
 
-Please send all questions/inquires to lliang@gatech.edu. 
+Please send all questions/inquires to lliang@seu.edu.cn. 
