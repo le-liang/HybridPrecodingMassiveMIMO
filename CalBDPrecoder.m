@@ -14,7 +14,7 @@ K = length(NsUE);
 Nr = NR/K;
 F = [];% BD precoder initialization
 
-%***** Standard BD design based on paper "ZF methods for DL spatial multiplexing..." ***%
+%**** Standard BD design based on paper Q. H. Spencer, et al.,"Zero-forcing methods for downlink spatial multiplexing in multiuser MIMO channels," IEEE TSP, Feb. 2004. ***%
 for iK = 1 : K
     Gj = H(((iK-1)*Nr+1):(iK*Nr),:);
     G_tilde = H;
